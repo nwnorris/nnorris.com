@@ -41,27 +41,15 @@ p {
   text-align: center;
 }
 
-#header p {
-  margin-left: 15px;
-}
-
-#header p a {
-  color: #ccc;
-}
-
 #headline-list {
   list-style: none;
   padding-left: 0;
 }
 
 a {
-  color: black;
+  color: #7aadff;
 }
 
 a:visited {
-  color: black;
-}
-
-a:hover {
   color: #7aadff;
 }
